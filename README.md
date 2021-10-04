@@ -1,6 +1,6 @@
 # This is my Tecno Drawing Club project
 
-You can see the live site by clicking  [Tecno Drawing Club](https://xenodochial-mestorf-7096bd.netlify.app/home) here.
+You can see the live site by clicking  [Tecno Drawing Club](https://xenodochial-mestorf-7096bd.netlify.app/) here.
 
 
 Here in this project you can, 
