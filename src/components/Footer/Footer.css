@@ -1,0 +1,38 @@
+.icon {
+    margin: 5px;
+    padding: 5px;
+    background-color: #d64161;
+    /* border-radius: 5px; */
+    color: #feb236;
+    font-size: 30px;
+  }
+  .icon:hover {
+    background-color: rgb(250, 25, 25);
+  }
+  .footer-menu {
+    list-style: none;
+    margin-top: 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  .footer-menu:hover {
+    color: red;
+  }
+  .footer-input {
+    padding: 8px;
+    border: none;
+    outline: none;
+    background-color: gray;
+  }
+  .footer-container {
+    background-color: #d64161;
+    padding: 50px;
+    border: 10px solid #6b5b95; 
+    border-radius: 200px;
+    color: #feb236;
+  }
+  .foter-phone-icon {
+    font-size: 30px;
+    color: #ff7b25;
+  }
+  
